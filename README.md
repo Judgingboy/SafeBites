@@ -10,10 +10,15 @@ This Android application works in conjunction with a backend service that handle
 authentication, allergy data, and ingredient management.
 
 ## 🎥 Demo Video
-A walkthrough of the SafeBites application in action.
 
-▶️ **Watch the demo video:**  
-https://github.com/Judgingboy/SafeBites/releases/latest
+A walkthrough of the SafeBites Android application in action, demonstrating:
+- User authentication
+- OCR-based ingredient scanning
+- Ingredient extraction and display
+- Backend integration
+
+▶️ **Watch the demo:**  
+https://youtu.be/S6CkRNoJhXI
 
 
 🔗 **Backend Repository:**  
