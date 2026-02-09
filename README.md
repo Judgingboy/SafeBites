@@ -13,7 +13,7 @@ authentication, allergy data, and ingredient management.
 A walkthrough of the SafeBites application in action.
 
 ▶️ **Watch the demo video:**  
-https://github.com/Judgingboy/SafeBitesBackend/releases/latest
+https://github.com/Judgingboy/SafeBites/releases/latest
 
 
 🔗 **Backend Repository:**  
